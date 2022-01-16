@@ -4,6 +4,8 @@
 
 -  Graduating in Systems Analysis and Development
 
+-  👨‍💻 A Software Engineering student seeking knowledge and new challenge
+
 -  Ask me about **JavaScript, HTML, CSS, Node.JS**
 
 -  Fun fact **Oneye 😜**
