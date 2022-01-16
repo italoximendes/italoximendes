@@ -41,5 +41,3 @@
  <img align="center" src="https://img.shields.io/badge/-italomalta-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=italoximendes&layout=wide&show_reply=off&show_retweet=off" />
