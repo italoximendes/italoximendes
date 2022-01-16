@@ -4,7 +4,7 @@
 
 -  Graduating in Systems Analysis and Development
 
--  Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+-  Ask me about **JavaScript, HTML, CSS, Node.JS**
 
 -  Fun fact **Oneye 😜**
 
