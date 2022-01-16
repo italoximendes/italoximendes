@@ -2,9 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Italo Ximendes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=italoximendes&color=yellow" alt="Profile views" /> </p>
 
--  Graduating in Systems Analysis and Development
-
--  A Systems Analysis and Development student seeking knowledge and new challenge
+-  Graduating in Systems Analysis and Development seeking knowledge and new challenge
 
 -  Ask me about **JavaScript, HTML, CSS, Node.JS**
 
