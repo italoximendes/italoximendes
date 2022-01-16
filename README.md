@@ -4,7 +4,7 @@
 
 -  Graduating in Systems Analysis and Development
 
--  👨‍💻 A Software Engineering student seeking knowledge and new challenge
+-  A Systems Analysis and Development student seeking knowledge and new challenge
 
 -  Ask me about **JavaScript, HTML, CSS, Node.JS**
 
