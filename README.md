@@ -4,7 +4,7 @@
 
 -  Graduating in Systems Analysis and Development seeking knowledge and new challenge
 
--  Ask me about **JavaScript, HTML, CSS, Node.JS**
+-  I'm currently lerarning **JAVASCRIPT, HTML, CSS, NODE**
 
 -  Fun fact **Oneye 😜**
 
