@@ -8,7 +8,7 @@
 
 -  Fun fact **Oneye 😜**
 
-<br><br>
+<br>
 
 ##  &nbsp;Tech Stack
 
@@ -17,7 +17,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-<br><br>
+<br>
 
 ##  &nbsp;GitHub Analytics
 
@@ -26,7 +26,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoximendes&layout=compact&theme=vision-friendly-dark" alt="italoximendes's most languages"/>
 </p>
 
-<br><br>
+<br>
 
 ## ‍ &nbsp;Social Links
 
@@ -41,3 +41,5 @@
  <img align="center" src="https://img.shields.io/badge/-italomalta-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+
+<br>
